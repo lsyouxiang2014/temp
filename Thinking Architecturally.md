@@ -61,6 +61,7 @@ pendence.
 
 
 Preface. v
+
 1. Technology Changes. 
  - Haven’t We Seen This Before?
  - The Futility of Predictions
@@ -336,7 +337,9 @@ industry. Learning new things keeps things fresh! But more than a few of us are
 guilty of practicing resume-driven design, of choosing a technology not for fit‐
 ness to purpose, but to be able to add it to our CV.
 
-> Haven’t We Seen This Before? | 3
+```
+Haven’t We Seen This Before? | 3
+```
 
 ### The Futility of Predictions
 
@@ -389,6 +392,7 @@ ing. Anyone that has tried to install a 0.x framework is bound to have experi‐
 
 
 > 3 Though it can pay rather handsomely.
+
 enced the pain of a missing dependency or some other small difference between
 the Hello World example and their laptop.
 
@@ -406,6 +410,7 @@ work on something new, it comes with its share of tradeoffs.
 
 > “Our application has four UI technologies...”
 > —Anonymous Technology Professional
+
 I bet you can appreciate the preceding quote and I suspect more than a few of
 you can relate. How did my student find herself in this situation? Admittedly, no
 one felt empowered to say “no” and everyone wanted to enable innovation. While
@@ -426,7 +431,9 @@ language brings to the unique situation we find ourselves in.
 > Keep the Dunning-Kruger effect in mind when someone on your team becomes
 > enamored with yet another technology fad.
 
-> The Value of Legacy Skillsets | 5
+```
+The Value of Legacy Skillsets | 5
+```
 
 **Legacy Skillsets Can be Valuable Too!**
 
@@ -479,6 +486,7 @@ than you expect. Be prepared and continue to invest in your skillset.
 
 
 > 4 Sadly, “Let the past die. Kill it, if you have to.” only works in the movies.
+
 If we are constantly experimenting with the new, we never develop any expertise
 in the now. Changing frameworks every few months might keep us at the fore‐
 front of buzzword bingo, but it is hard to be good at something you’ve just picked
